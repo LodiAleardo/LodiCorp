@@ -25,7 +25,7 @@ const FeatureList: FeatureItem[] = [
         description: (
             <>
                 Right now I'm working on this project. My goal is to have different styles (Notion style, Ant Design,
-                Boostrap...) into one form builder
+                Boostrap...) into one form builder.
             </>
         ),
     },
